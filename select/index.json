@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さよなら通り3番地",
+  "base_artist": "はっぴいえんど",
+  "createdAt": "2026-02-22T04:05:29.179176Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよなら通り3番地",
+      "artist": "はっぴいえんど",
+      "has_synced": false,
+      "path": "select/pl_01_さよなら通り3番地_はっぴいえんど.txt"
+    }
+  ]
+}
